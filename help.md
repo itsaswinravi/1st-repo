@@ -7,7 +7,7 @@
 - click on repos
 - click on new green icon
 - give a repos name
-- click on add read me file
+- click on add read me  file
 - click on create repos
 
 ## how to clone repos?
